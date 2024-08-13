@@ -1,0 +1,61 @@
+body{
+    background-color: blue;
+}
+
+/* header{
+    background-color: aqua;
+    width: 700px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 5px;
+    text-align: center;
+    border-radius: 10px;
+} */
+
+/* .texto {
+        font-family: cursive;
+        font-size: 16px
+        background-color: aqua;
+        border: 2px solid red;
+        margin-top: 50px;
+ */
+
+.cabecalho{
+    background-color: rgb(255,255,255);
+    padding: 60px;
+    border-radius: 10px;
+}
+
+nav li {
+    display: inline;
+    margin-right: 15px;
+}
+
+
+#tcabecalho{
+    font-size: 30px;
+    text-align: left;
+    margin-top: 5px;
+    margin-inline-start: 1px;
+}
+
+.main{
+    background-color: rgb(255,250,0);
+    padding: 140px;
+    text-align: center;
+    border-radius: 10px;
+    height: 900px;
+    font-size: 15px;
+}
+
+#pa{
+    font-size: 15px;
+}
+
+.rodape{
+    background-color: rgb(255,90,10);
+    padding: 70px;
+    border-radius: 10px;
+    text-align: center;
+}
+
