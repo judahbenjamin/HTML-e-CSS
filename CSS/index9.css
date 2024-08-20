@@ -24,7 +24,18 @@ figure img {
     display: inline;
 }
 
+#nav nav a {
+    color: white;
+    padding: 18px;
+    font-size: 13px;
+}
+
+nav a#cor {
+    color: greenyellow;
+}
+
 #butt{
-    margin-left: 1380px;
-    margin-top: -59px;
+    margin-left: 1600px;
+    margin-top: -17px;
+    font-size: 13px;
 }
