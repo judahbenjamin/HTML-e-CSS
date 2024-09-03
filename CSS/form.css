@@ -1,0 +1,72 @@
+body{
+    background-color: rgb(150,215,150);
+}
+
+div{
+    margin-top: -145px;
+}
+
+h1{
+    background-color: white;
+    text-align: center;
+    width: 460px;
+    height: 45px;
+    padding: 20px;
+    margin-left: 155px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+#form1 {
+    text-align: center;
+    background-color: rgb(0, 230, 255);
+    border: 2px solid black;
+    margin: 220px 200px;
+    padding: 60px;
+    height: 120px;
+}
+
+#butt{
+    margin: 20px;
+    padding: 10px 30px 10px;
+    background-color: white;
+    color: rgb(120, 130, 120);
+}
+
+#form2 {
+    text-align: center;
+    background-color: rgb(255, 255, 0);
+    border: 2px solid black;
+    margin: -180px 200px;
+    padding: 60px;
+    text-align: left;
+    height: 120px;
+}
+
+#form3 {
+    text-align: center;
+    background-color: rgb(255, 200, 0);
+    border: 2px solid black;
+    margin: 220px 200px;
+    padding: 60px;
+    text-align: left;
+    height: 120px;
+}
+
+article{
+    background-color: white;
+    text-align: left;
+    width: 400px;
+    height: 55px;
+    padding: 10px;
+    margin-left: 2px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-top: -125px;
+}
+
+article p{
+    padding-left: 15px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
