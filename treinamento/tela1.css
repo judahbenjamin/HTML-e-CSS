@@ -1,0 +1,112 @@
+body{
+    background-color: rgb(95,250,255);
+}
+
+.menu {
+    background-color: #006494;
+    height: 90px;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right: -8px;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+
+.menu nav {
+    text-align: center;
+    padding-top: 32px;
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: -50px;
+}
+
+.menu nav a {
+    text-decoration: none;
+    margin-left: 55px;
+    color: white;
+}
+
+.menu nav a:hover {
+    color: rgb(95,250,255);
+}
+
+.menu h1 {
+    margin-top: 55px;
+    margin-left: 20px;
+    color: black;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #e8f1f2;
+    width: 495px;
+    height: 55px;
+    padding-top: 5px;
+    padding-left: 20px;
+    border: 2px solid black;
+    border-radius: 15px;
+    border-style: dashed;
+    text-align: center;
+}
+
+.imagem {
+    margin-top: 110px;
+    margin-left: 10px;
+    background-color: #e8f1f2;
+    width: 520px;
+    height: 500px;
+    border: 2px black solid;
+    border-radius: 15px;
+}
+
+.imagem img{
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 15px;
+}
+
+.texto {
+    background-color: #e8f1f2;
+    text-align: justify;
+    margin-left: 570px;
+    margin-right: 20px;
+    margin-top: -504px;
+    padding: 25px 35px 25px;
+    height: 610px;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+
+footer{
+    background-color: #006494;
+    margin-top: 30px;
+    height: 100px;
+    margin-left: -8px;
+    margin-right: -8px;
+    text-align: center;
+    padding-top: 80px;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+
+aside {
+    background-color: #1b98e0;
+    width: 450px;
+    height: 65px;
+    padding-top: 1px;
+    padding-left: 5px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    border: 2px solid black;
+    border-radius: 15px;
+    box-shadow: 4px 4px 4px rgb(0,0,0,0.8);
+    margin-left: 10px;
+    text-align: center;
+    border-style: dashed;
+}
+
+aside:hover {
+    background-color: #006494;
+}

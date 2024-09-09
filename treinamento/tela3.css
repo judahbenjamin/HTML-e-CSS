@@ -1,0 +1,97 @@
+body {
+    background-color: rgb(95,250,255);
+}
+
+.menu_tabela {
+    background-color: #006494;
+    height: 90px;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right: -8px;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+
+.menu_tabela nav {
+    text-align: center;
+    padding-top: 32px;
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: -50px;
+}
+
+.menu_tabela nav a {
+    text-decoration: none;
+    margin-left: 55px;
+    color: white;
+}
+
+.menu_tabela h1 {
+    margin-top: 55px;
+    margin-left: 370px;
+    color: black;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #e8f1f2;
+    width: 495px;
+    height: 55px;
+    padding-top: 5px;
+    padding-left: 20px;
+    border: 2px solid black;
+    border-radius: 15px;
+    border-style: dashed;
+    text-align: center;
+}
+
+.menu_tabela nav a:hover {
+    color: rgb(95,250,255);
+}
+
+table {
+    margin-top: 120px;
+    margin-left: 260px;
+    padding: 20px;
+}
+
+table, tr, th, td {
+    text-align: center;
+    width: 700px;
+    height: 90px;
+}
+
+table, th, td {
+    border: 2px solid black;
+    border-radius: 25px;
+    background-color:#e8f1f2;
+}
+
+table, .titulo {
+    background-color: #006494;
+}
+
+
+tr:nth-child(even) {
+    background-color: rgb(95,250,255);
+  }
+  
+th:nth-child(even),td:nth-child(even) {
+    background-color: rgba(150, 212, 212, 0.4);
+}
+
+footer{
+    background-color: #006494;
+    margin-top: 80px;
+    height: 100px;
+    margin-left: -8px;
+    margin-right: -8px;
+    text-align: center;
+    padding-top: 80px;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+
+
+
