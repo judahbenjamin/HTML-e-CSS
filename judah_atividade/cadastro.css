@@ -1,0 +1,71 @@
+body{
+    background-color: #cfebfc;
+}
+
+.menu_cadastro {
+    background-color: #3eaef4;
+    border: 2px solid #228dcf;
+    height: 85px;
+}
+
+.menu_cadastro h2 {
+    padding-top: 10px;
+    padding-left: 30px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.formulario {
+    margin-top: 35px;
+    background-color: white;
+    margin-left: 200px;
+    margin-right: 200px;
+    height: 540px;
+}
+
+.formulario .nome{
+    padding-top: 30px;
+    padding-left: 30px;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.formulario .nome input{
+    width: 320px;
+    height: 25px;
+}
+
+.formulario .email{
+    padding-top: 30px;
+    padding-left: 30px;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.formulario .email input{
+    width: 320px;
+    height: 25px;
+}
+
+.formulario .mensagem{
+    padding-top: 5px;
+    padding-left: 30px;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.formulario .mensagem textarea{
+    margin-top: 20px;
+    width: 320px;
+    height: 160px;
+}
+
+.butao, button{
+    margin-left: 159px;
+    margin-top: -60px;
+    width: 150px;
+    height: 40px;
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}

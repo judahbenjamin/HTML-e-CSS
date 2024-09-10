@@ -1,0 +1,75 @@
+.cabecalho {
+    background-color: #3eaef4;
+    border: 2px solid #228dcf;
+    height: 85px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.cabecalho h2{
+   margin-left: 35px;
+   margin-top: 29px;
+   color: rgb(255, 255, 255);
+}
+
+.cabecalho table{
+    margin-top: -50px;
+}
+
+.cabecalho table, tr, th{
+    width: 310px;
+    border: 1px solid black ;;
+    margin-left: 257px;
+    padding: 3px;
+    background-color: white;
+}
+
+.cabecalho table, tr, th, a{
+    text-decoration: none;
+    color:#228dcf;
+}
+
+.conteudo {
+    background-color: #cfebfc;
+    height: 305px;
+    width: 570px;
+    margin-top: 10px;
+    border: 2px solid #228dcf;
+}
+
+.conteudo h2 {
+    margin-left: 35px;
+    padding-top: 110px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+.barra {
+    background-color: #9fd7f9;
+    height: 305px;
+    width: 205px;
+    margin-left: 587px;
+    margin-top: -308.5px;
+    border: 2px solid #228dcf;
+}
+
+.barra h2 {
+    padding-top: 110px;
+    margin-left: 29px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+.rodape {
+    margin-top: 10px;
+    background-color: #27a4f2;
+    border: 2px solid #0d81c9;
+    height: 85px;
+}
+
+.rodape footer {
+    margin-left: 35px;
+    padding-top: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 22px;
+}
