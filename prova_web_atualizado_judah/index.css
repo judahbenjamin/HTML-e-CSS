@@ -1,0 +1,128 @@
+.cabecalho {
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+    background-color: #3eaef4;
+    border: 4px solid #228dcf;
+    height: 85px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.cabecalho h2{
+   margin-left: 35px;
+   margin-top: 29px;
+   color: rgb(255, 255, 255);
+}
+
+.cabecalho nav{
+    margin-top: -40px;
+    margin-left: 470px;
+}
+
+.cabecalho nav a{
+    width: 320px;
+    margin-left: 20px;
+    padding: 6px 6px 5px;
+    background-color: white;
+    font-size: 18px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.cabecalho nav a{
+    text-decoration: none;
+    color:#228dcf;
+}
+
+.conteudo {
+    background-color: #cfebfc;
+    height: 905px;
+    width: 830px;
+    margin-top: 10px;
+    border: 4px solid #228dcf;
+}
+
+.conteudo img{
+    background-image: url(https://assets-blog.hostgator.com.br/wp-content/uploads/2018/07/o-que-e-css-scaled-1.webp);
+    width: 788px;
+    height: 500px;
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 3px solid #0d81c9;
+}
+
+.conteudo h2 {
+    margin-top: -70px;
+    margin-left: 35px;
+    padding-top: 110px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+}
+
+.conteudo p{
+    text-align: justify;
+    padding: 30px;
+}
+
+.conteudo b{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.barra {
+    background-color: #9fd7f9;
+    height: 906px;
+    width: 420px;
+    margin-left: 850px;
+    margin-top: -913px;
+    border: 4px solid #228dcf;
+}
+
+.barra h2 {
+    padding-top: 20px;
+    margin-left: 29px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+.barra #p1{
+    padding: 30px;
+    text-align: justify;
+}
+
+.barra #p2{
+    padding: 30px;
+    text-align: justify;
+    margin-top: -35px;
+}
+
+.barra img{
+    margin-left: 35px;
+    width: 355px;
+    margin-top: -5px;
+    border: 4px solid white;
+}
+
+.rodape {
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-top: 15px;
+    background-color: #27a4f2;
+    border: 4px solid #0d81c9;
+    height: 155px;
+    background-image: url(https://img.freepik.com/free-vector/gradient-geometrical-shapes-dark-background_23-2148423541.jpg);
+    background-position: center;
+}
+
+.rodape footer {
+    margin-left: 35px;
+    padding-top: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 22px;
+}
+
+.rodape p{
+    text-align: center;
+    color: white;
+    font-size: 17px;
+}

@@ -1,0 +1,93 @@
+body{
+    background-color: #4efa48;
+}
+
+.menu_contato {
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+    background-color: #3eaef4;
+    border: 2px solid #228dcf;
+    height: 85px;
+}
+
+.menu_contato h2 {
+    padding-top: 10px;
+    padding-left: 30px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.menu_contato button{
+    margin-top: 45px;
+    background-color: white;
+    color: #228dcf;
+    margin-left: 15px;
+    width: 150px;
+    height: 40px;
+    font-size: 22px;
+}
+
+.menu_contato button a{
+    text-decoration: none;
+    color: #228dcf;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.formulario {
+    margin-top: 35px;
+    background-color: white;
+    margin-left: 450px;
+    margin-right: 450px;
+    height: 530px;
+    width: 390px;
+    border: 4px solid #228dcf;
+}
+
+button{
+    width: 150px;
+    height: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-left: 119px;
+    background-color: #228dcf;
+    margin-top: 20px;
+    font-size: 19px;
+}
+
+.formulario .nome{
+    padding-top: 55px;
+    padding-left: 30px;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.formulario .nome input{
+    width: 320px;
+    height: 25px;
+}
+
+.formulario .email{
+    padding-top: 30px;
+    padding-left: 30px;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.formulario .email input{
+    width: 320px;
+    height: 25px;
+}
+
+.formulario .mensagem{
+    padding-top: 10px;
+    padding-left: 30px;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.formulario .mensagem textarea{
+    width: 320px;
+    height: 140px;
+}
+
