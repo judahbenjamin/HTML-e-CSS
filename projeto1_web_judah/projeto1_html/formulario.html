@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+    <link rel="stylesheet" href="CSS/formulario.css">
+</head>
+<body>
+    <header class="header">
+        <nav>
+            <lu class="menu">
+                <li><a href="login.html"><b>LOGIN</b></a></li>
+                <li><a href="conteudo.html"><b>CONTEÚDO</b></a></li>
+                <li><a href=""><b>FORMULÁRIO</b></a></li>
+                <li><a href="multimidia.html"><b>MULTIMÍDIA</b></a></li>
+            </lu>
+        </nav>
+    </header>
+
+    <div class="form-container">
+        <h1>Formulário de Cadastro</h1>
+
+        <form action="#" method="post">
+            <label for="nome">Nome:</label>
+            <input type="text" id="nome" name="nome" required placeholder="Digite seu nome">
+
+            <label for="endereco">Endereço:</label>
+            <input type="text" id="endereco" name="endereco" required placeholder="Digite seu endereço">
+
+            <label for="email">E-mail:</label>
+            <input type="email" id="email" name="email" required placeholder="Digite seu e-mail">
+
+            <label for="senha">Senha:</label>
+            <input type="password" id="senha" name="senha" required placeholder="Digite sua senha">
+
+            <label>Preferências:</label>
+            <div class="checkbox-group">
+                <input type="checkbox" id="noticias" name="preferencias" value="noticias">
+                <label for="noticias">Receber notícias</label>
+
+                <input type="checkbox" id="ofertas" name="preferencias" value="ofertas">
+                <label for="ofertas">Receber ofertas</label>
+            </div>
+
+            <label>Gênero:</label>
+            <div class="radio-group">
+                <input type="radio" id="masculino" name="genero" value="masculino" required>
+                <label for="masculino">Masculino</label>
+
+                <input type="radio" id="feminino" name="genero" value="feminino">
+                <label for="feminino">Feminino</label>
+            </div>
+
+            <label for="pais">País:</label>
+            <select id="pais" name="pais" required>
+                <option value="brasil">Brasil</option>
+                <option value="portugal">Portugal</option>
+                <option value="eua">Estados Unidos</option>
+                <option value="china">China</option>
+                <option value="japao">Japão</option>
+            </select>
+
+            <label for="comentarios">Comentários:</label>
+            <textarea id="comentarios" name="comentarios" rows="4" placeholder="Insira seus comentários"></textarea>
+
+            <div class="button-group">
+                <button type="submit">Enviar</button>
+                <button type="reset">Resetar</button>
+            </div>
+        </form>
+    </div>
+
+    <footer>
+        <h3>Judah Benjamin @2024 | CEET VASCO COUTINHO</h3>
+    </footer>
+</body>
+</html>

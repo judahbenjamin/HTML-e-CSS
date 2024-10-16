@@ -1,0 +1,112 @@
+body,ul,li,p{
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px;
+    list-style: none;
+    font-size: 16px;
+    background-color: #add8e6;
+}
+
+a {
+    text-decoration: none;
+    color: #2f5add;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    align-items: center;
+    flex-wrap: wrap;
+    background: #2f5add;
+}
+
+.menu {
+    display: flex;
+}
+
+.menu li{
+    margin-left: 10px;
+}
+
+.menu li a{
+    display: block;
+    padding: 10px; /*Gera espaço entre o menu*/
+    background: white;
+}
+
+.form-container {
+    margin-top: 80px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    width: 370px;
+    height: 480px;
+    margin-left: 500px;
+}
+
+h1 {
+    padding-top: 10px;
+    color: #333;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+figure{
+    text-align: center;
+    margin-top: 40px;
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    color: #555;
+    padding-top: 10px;
+}
+
+input[type="text"],
+input[type="password"],
+select,
+textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    background-color: #b6b6b6;
+}
+
+.button {
+    margin-top: 25px;
+    text-align: center;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+    background-color: #2f5add;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+footer{
+    margin-top: 90px;
+    background: #2f5add;
+    height: 200px;
+}
+
+footer h3 {
+    color: white;
+    text-align: center;
+    padding-top: 90px;
+    font-size: 15px;
+}
+
+
+
