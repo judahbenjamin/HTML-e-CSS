@@ -54,3 +54,74 @@ h1{
     text-align: center;
     font-size: 100px;
 }
+
+p {
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+.card1 {
+    margin-left: 200px;
+    background-color: white;
+}
+
+.card1 .card-title{
+    color: black;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.card1 .btn {
+    margin-top: 5px;
+    margin-left: 20px;
+}
+
+.card2 {
+    margin-left: 730px;
+    background-color: white;
+    margin-top: -448px;
+}
+
+.card2 .card-title{
+    color: black;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.card2 .btn {
+    margin-top: 5px;
+    margin-left: 20px;
+}
+
+.card3 {
+    margin-left: 1270px;
+    background-color: white;
+    margin-top: -448px;
+}
+
+.card3 .card-title{
+    color: black;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.card3 .btn {
+    margin-top: 5px;
+    margin-left: 20px;
+}
+
+footer{
+    background-color: white;
+    height: 200px;
+}
+
+footer p{
+    color: black;
+    padding-top: 100px;
+    
+}
+
+
+
+
