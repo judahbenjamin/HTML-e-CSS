@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(6, 95, 212);
+}
+
+.navbar {
+    height: 100px;
+}
+
+.container-fluid {
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+#textprin h1{
+    margin-top: 30px;
+    margin-left: 150px;
+    font-size: 60px;
+    margin-right: 1115px;
+    color: white;
+}
+
+#text p{
+    margin-top: 30px;
+    margin-left: 150px;
+    font-size: 20px;
+    margin-right: 1190px;
+    color: white;
+    text-align: left;
+}
+
+#butao .btn{
+    margin-top: 30px;
+    margin-left: 150px;
+    width: 350px;
+    height: 60px;
+    color: rgb(6, 95, 212);
+}
+
+figure{
+    margin-left: 950px;
+    margin-top: -390px;
+}
