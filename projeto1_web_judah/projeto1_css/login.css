@@ -36,7 +36,6 @@ a {
 }
 
 .form-container {
-    margin-top: 80px;
     background-color: #fff;
     border: 1px solid #ccc;
     padding: 30px;
@@ -45,6 +44,8 @@ a {
     width: 370px;
     height: 480px;
     margin-left: 500px;
+    margin: auto;
+    margin-top: 80px;
 }
 
 h1 {
